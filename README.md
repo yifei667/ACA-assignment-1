@@ -2,5 +2,5 @@
 
 - Block-wise Pitch Tracking with the ACF
 - Evaluation
-- modified median filter strategy
+- Modified median filter strategy
 
